@@ -1,16 +1,15 @@
-# Mygom.Tech qualification task:
+# Dropdown:
 
-Create dropdown component from scratch using React and Typescript
+Created dropdown component from scratch using React, Typescript and styled-components
 
 ## Requirements
-- No third-party libraries can be used
-- `<select>` attribute can not be used
+
 - Dropdown should support multiple selection
 - Dropdown should be easily reusable in many places
 - onSelect callback implemented
-- No plain css. Instead, LESS/SASS/JSS/StyledComponents should be used
+- No plain css. Instead, StyledComponents used
 
-## Additional points
+## Additional
 - Dropdown options can be grouped
 - Callbacks onClose, onOpen and similar added
 - Custom hook for dropdown data validation added
@@ -21,7 +20,7 @@ Create dropdown component from scratch using React and Typescript
 - ES6
 - Typescript
 - Standard CRA Eslint rules must be followed
-- All components must be written as functional components instead of Class components
+- All components must be written as functional components
 
 ## Naming conventions
 - Component's names should be written using pascal case. i.e. `Dropdown.tsx`, `DropdownItem.tsx`
